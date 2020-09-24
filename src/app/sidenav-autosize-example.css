@@ -18,7 +18,31 @@ border-style: inset;
 }
 .example-sidenav {
   padding: 20px;
-  box-shadow: -3px 2px 5px  blue;
+  box-shadow: -3px 2px 7px  #008CBA;
 
   
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 4px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button1:hover {
+  background-color: #008CBA;
+  color: white;
 }
