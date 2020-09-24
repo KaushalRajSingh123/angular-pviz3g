@@ -9,6 +9,9 @@
   height: 100%;
   align-items: center;
   justify-content: center;
+  box-shadow: 5px 10px red;
+  float: right;
+  margin-bottom: 120px;
 }
 
 .example-sidenav {
