@@ -9,11 +9,16 @@
   height: 100%;
   align-items: center;
   justify-content: center;
-  box-shadow: 5px 10px red;
   float: right;
-  margin-bottom: 120px;
-}
+  }
 
+.box-shadow{
+ box-shadow: 0 8px 6px -6px black;
+border-style: inset;
+}
 .example-sidenav {
   padding: 20px;
+  box-shadow: -3px 2px 5px  blue;
+
+  
 }
