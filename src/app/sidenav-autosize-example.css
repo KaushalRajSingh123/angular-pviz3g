@@ -35,6 +35,8 @@ border-style: inset;
   margin: 2px 1px;
   transition-duration: 0.4s;
   cursor: pointer;
+  width:10px;
+  height: 10px;
 }
 .button1 {
   background-color: white; 
